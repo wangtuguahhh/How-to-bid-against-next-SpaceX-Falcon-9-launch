@@ -9,7 +9,7 @@ SpaceX promotes its Falcon 9 rocket launches with a much lower cost of 62 millio
 ## 🎯 Objectives:
 * Build an accurate model to predict the outcome of Falcon 9 first stage landing
 * Answer the questions: 
-  - How much to offer to bid SpaceX next Falcon 9 launch?
+  - How much to offer to outbid SpaceX next Falcon 9 launch?
   - What features have more impact on the first stage landing outcome?
 ## 🛠 Tools:
 * Python for:
