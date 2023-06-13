@@ -1,6 +1,6 @@
 ![image](https://github.com/wangtuguahhh/How-to-bid-against-next-SpaceX-Falcon-9-launch/assets/130683390/5f1e1424-b11b-43dd-97ec-7fedc1c12f73)
 https://universemagazine.com/wp-content/uploads/2022/10/femhboivqaessi6.jpg
-# How-to-bid-against-next-SpaceX-Falcon-9-launch
+# How-to-outbid-next-SpaceX-Falcon-9-launch
 This is a capstone project of [IBM data science professional certificate](https://www.coursera.org/professional-certificates/ibm-data-science) online program. Here is my completion [certificate](https://coursera.org/share/9af09f14707a3324143dbcd6d23bd719).
 ## 🚀 Background:
 Even though this project is a requirement for my certificate completion, I genuinely enjoy working on it. It integrates the essential skills a data scientist needs to have and is closely associated with actual business challenges in the real world. 
