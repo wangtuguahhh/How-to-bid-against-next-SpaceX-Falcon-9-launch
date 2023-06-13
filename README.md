@@ -21,7 +21,7 @@ SpaceX promotes its Falcon 9 rocket launches with a much lower cost of 62 millio
     - Folium
     - Plotly
     - Dash
-  - machine learning models building and evaluation
+  - Machine learning model building and evaluation
     - Logistic Regression
     - Support Vector Machine
     - K-nearest Neighbors
