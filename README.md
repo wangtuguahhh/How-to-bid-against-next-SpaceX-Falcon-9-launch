@@ -8,7 +8,7 @@ Even though this project is a requirement for my certificate completion, I genui
 SpaceX promotes its Falcon 9 rocket launches with a much lower cost of 62 million dollars compared to the average cost of 165 million dollars from other competitors. This cost reduction is primarily due to SpaceX's ability to reuse the first stage of the rocket. If a competitor aims to outbid SpaceX for a rocket launch, the key question becomes the cost of the launch. An accurate model is needed to predict the outcome of Falcon 9 first stage landing in order to estimate the cost and make an informed decision about the bid offer. 
 ## 🎯 Objectives:
 * Build an accurate model to predict the outcome of Falcon 9 first stage landing
-* Answer the question: 
+* Answer the questions: 
   - How much to offer to bid SpaceX next Falcon 9 launch?
   - What features have more impact on the first stage landing outcome?
 ## 🛠 Tools:
