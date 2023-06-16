@@ -14,7 +14,7 @@ SpaceX promotes its Falcon 9 rocket launches with a much lower cost of 62 millio
 ## 🛠 Tools:
 * Python for:
   - [API data collecting](step-1-data-collection-spacex-api.ipynb)
-  - [Wki web scraping](step-2-wiki-webscraping.ipynb)
+  - [Wiki web scraping](step-2-wiki-webscraping.ipynb)
   - [Data wrangling](step-3-data-wrangling-and-eda.ipynb)
   - Extensive exploratory data analysis
     - [Matplotlib](step-3-data-wrangling-and-eda.ipynb)
