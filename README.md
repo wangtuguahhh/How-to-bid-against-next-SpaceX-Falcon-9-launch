@@ -13,20 +13,20 @@ SpaceX promotes its Falcon 9 rocket launches with a much lower cost of 62 millio
   - What features have more impact on the first stage landing outcome?
 ## 🛠 Tools:
 * Python for:
-  - API data collecting and web scraping
-  - Data wrangling
+  - [API data collecting](step-1-data-collection-spacex-api.ipynb)
+  - [Wki web scraping](step-2-wiki-webscraping.ipynb)
+  - [Data wrangling](step-3-data-wrangling-and-eda.ipynb)
   - Extensive exploratory data analysis
-    - Matplotlib
-    - Seaborn
-    - Folium
-    - Plotly
-    - Dash
-  - Machine learning model building and evaluation
+    - [Matplotlib](step-3-data-wrangling-and-eda.ipynb)
+    - [Seaborn](step-3-data-wrangling-and-eda.ipynb)
+    - [Folium](step-3-data-wrangling-and-eda.ipynb)
+    - [Plotly Dash](https://github.com/wangtuguahhh/my_spacex_project_dash#readme)
+  - [Machine learning model building and evaluation](step-4-ml-model-fitting-and-evaluation.ipynb)
     - Logistic Regression
     - Support Vector Machine
     - K-nearest Neighbors
     - Decision Tree
-* SQL for data analysis
+* [SQL](appendix-1-sql-queries.ipynb) for data analysis
 ## 📚 Data:
 * [SpaceX API](https://github.com/r-spacex/SpaceX-API/tree/master/docs)
 * [Wikipedia: List of Falcon 9 and Falcon Heavy Launches](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches)
