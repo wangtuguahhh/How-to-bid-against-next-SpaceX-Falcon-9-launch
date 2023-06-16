@@ -17,9 +17,7 @@ SpaceX promotes its Falcon 9 rocket launches with a much lower cost of 62 millio
   - [Wiki web scraping](step-2-wiki-webscraping.ipynb)
   - [Data wrangling](step-3-data-wrangling-and-eda.ipynb)
   - Extensive exploratory data analysis
-    - [Matplotlib](step-3-data-wrangling-and-eda.ipynb)
-    - [Seaborn](step-3-data-wrangling-and-eda.ipynb)
-    - [Folium](step-3-data-wrangling-and-eda.ipynb)
+    - [Matplotlib, Seaborn, Folium](step-3-data-wrangling-and-eda.ipynb)
     - [Plotly Dash](https://github.com/wangtuguahhh/my_spacex_project_dash#readme)
   - [Machine learning model building and evaluation](step-4-ml-model-fitting-and-evaluation.ipynb)
     - Logistic Regression
